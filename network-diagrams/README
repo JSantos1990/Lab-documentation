@@ -1,2 +1,7 @@
-# Network Diagrams
-This section contains network topology diagrams for different lab environments, including home lab setups, SOC workflows, and security monitoring architectures.
+# Active Directory Lab
+Documentation for building and configuring a Windows Active Directory environment for security testing.  
+Includes:
+- Domain Controller setup
+- User and group creation
+- Kerberos and LDAP notes
+- Common attack scenarios (Kerberoasting, Pass-the-Hash, etc.)
